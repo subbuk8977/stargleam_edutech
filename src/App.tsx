@@ -44,7 +44,7 @@ function App() {
             <Route path="/timer">
               <Timer/>
             </Route>
-            <Route path="/">
+            <Route path="/home">
               <Carousel/>
               <Footer/>
             </Route>
