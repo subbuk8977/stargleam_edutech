@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/stargleam_edutech/static/css/main.fad452f5.css",
+    "main.js": "/stargleam_edutech/static/js/main.104bd4c0.js",
+    "static/js/453.3deeaab7.chunk.js": "/stargleam_edutech/static/js/453.3deeaab7.chunk.js",
+    "static/media/NV1.pdf": "/stargleam_edutech/static/media/NV1.e627d3204c353a6365ce.pdf",
+    "static/media/ASSP.pdf": "/stargleam_edutech/static/media/ASSP.df26ec86d42e1f3a8437.pdf",
+    "static/media/ASSP2.pdf": "/stargleam_edutech/static/media/ASSP2.d9717bd8a77a16408196.pdf",
+    "static/media/V1.pdf": "/stargleam_edutech/static/media/V1.0dd12099e9b536866fb4.pdf",
+    "static/media/star2.png": "/stargleam_edutech/static/media/star2.04fbb45189f8f89dad08.png",
+    "static/media/M1.pdf": "/stargleam_edutech/static/media/M1.1e9edb89d2287bfd3aed.pdf",
+    "static/media/M2.pdf": "/stargleam_edutech/static/media/M2.5a0dde2d74f18ef9404c.pdf",
+    "static/media/V2.pdf": "/stargleam_edutech/static/media/V2.510e0d2764fb73d2326c.pdf",
+    "static/media/star.png": "/stargleam_edutech/static/media/star.f9f7c70651d3574bb599.png",
+    "index.html": "/stargleam_edutech/index.html",
+    "main.fad452f5.css.map": "/stargleam_edutech/static/css/main.fad452f5.css.map",
+    "main.104bd4c0.js.map": "/stargleam_edutech/static/js/main.104bd4c0.js.map",
+    "453.3deeaab7.chunk.js.map": "/stargleam_edutech/static/js/453.3deeaab7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad452f5.css",
+    "static/js/main.104bd4c0.js"
+  ]
+}
